@@ -2,3 +2,7 @@
 #myFirstH2 {
 	visibility: hidden;
 }
+
+#mySecondH2 {
+	display: none;
+}
