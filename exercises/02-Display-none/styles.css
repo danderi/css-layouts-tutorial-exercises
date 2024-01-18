@@ -6,3 +6,13 @@
 #mySecondH2 {
 	display: none;
 }
+
+#myUL {
+	display: flex;
+	list-style-type: none;
+	border-right: 2px;
+}
+
+#myUL li {
+	padding-right: 5px;
+}
