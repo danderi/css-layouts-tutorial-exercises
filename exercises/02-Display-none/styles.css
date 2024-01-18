@@ -7,12 +7,10 @@
 	display: none;
 }
 
-#myUL {
-	display: flex;
-	list-style-type: none;
-	border-right: 2px;
+#myUL li {
+	display: inline;
 }
 
-#myUL li {
-	padding-right: 5px;
+strong {
+	display: block;
 }
