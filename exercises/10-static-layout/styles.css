@@ -1,5 +1,25 @@
 /* your code here */
 
+.secondWrapper {
+	display: flex;
+}
+.secondWrapper nav {
+	width: 20%;
+	margin: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.secondWrapper section {
+	width: 80%;
+	margin: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+header {
+	margin: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
